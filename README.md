@@ -294,6 +294,6 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=raivenLockdown&label=RUNNERS+JACKED+IN&icon=8&color=6&pretty=false)](https://visitcount.itsvg.in)
+![GitHub Views](https://komarev.com/ghpvc/?username=raivenLockdown&color=ff0055&style=flat-square)
 
 </div>
