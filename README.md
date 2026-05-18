@@ -294,6 +294,6 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-![GitHub Views](https://komarev.com/ghpvc/?username=raivenLockdown&color=ff0055&style=flat-square)
+![Custom Runner Badge](https://img.shields.io/badge/RUNNERS_JACKED_IN-1337-ff0055?style=for-the-badge&logo=cyberpunk2077)
 
 </div>
