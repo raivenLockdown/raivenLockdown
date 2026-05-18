@@ -23,10 +23,10 @@
 
 ```
   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-  █  ALIAS  ::  P Y U R 1 1   //   raivenLockdown          █
-  █  CLASS  ::  NETRUNNER ░░░░░░░░░░░░░░  RANK: A-CLASS    █
-  █  STATUS ::  ◈ BREACHING SYSTEM ◈ ICE DISSOLVED         █
-  █  DOMAIN ::  CTF · PENTEST · SECURITY RESEARCH          █
+  █  ALIAS  ::  P Y U R 1 1   //   raivenLockdown        █
+  █  CLASS  ::  NETRUNNER ░░░░░░░░░░░░░░  RANK: A-CLASS  █
+  █  STATUS ::  ◈ BREACHING SYSTEM ◈ ICE DISSOLVED      █
+  █  DOMAIN ::  CTF · PENTEST · SECURITY RESEARCH        █
   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
@@ -41,16 +41,16 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║   ░▒▓  ARASAKA NET — UNAUTHORIZED ACCESS DETECTED  ▓▒░              ║
+║   ░▒▓  ARASAKA NET — UNAUTHORIZED ACCESS DETECTED  ▓▒░               ║
 ║                                                                      ║
-║   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] FIREWALL BYPASSED             ║
-║   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] ICE LAYER DISSOLVED           ║
-║   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] SYSOP NEUTRALIZED             ║
+║   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] FIREWALL BYPASSED               ║
+║   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] ICE LAYER DISSOLVED             ║
+║   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] SYSOP NEUTRALIZED               ║
 ║                                                                      ║
 ║   >> WELCOME TO THE NET, CHOOMBA.                                    ║
-║   >> IDENTITY CONFIRMED : Pyur11  //  raivenLockdown                ║
-║   >> THREAT DESIGNATION : ██████████ [CLASSIFIED]                   ║
-║   >> NEURAL LINK        : STABLE ◈ JACKED IN                        ║
+║   >> IDENTITY CONFIRMED : Pyur11  //  raivenLockdown                 ║
+║   >> THREAT DESIGNATION : ██████████ [CLASSIFIED]                    ║
+║   >> NEURAL LINK        : STABLE ◈ JACKED IN.                       ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -67,7 +67,7 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║  NETRUNNER_PROFILE                                           ║
 ╠══════════════════════════════════════════════════════════════╣
-║  handle      :  Pyur11  //  raivenLockdown                  ║
+║  handle      :  Pyur11  //  raivenLockdown                   ║
 ║  role        :  Cybersecurity Student                        ║
 ║                 CTF Player | Ethical Hacker | Builder        ║
 ║  ctf_alias   :  Pyur11  [ACTIVE — COMPETING]                 ║
@@ -75,8 +75,8 @@
 ║  spec        :  Penetration Testing  //  Sec Research        ║
 ║                 Hardened Systems  //  Tool Development       ║
 ║  primary_lang:  Python                                       ║
-║  core_drive  :  Offense  ·  Defense  ·  System Integrity    ║
-║  threat_lvl  :  [████████████░░░░] ESCALATING               ║
+║  core_drive  :  Offense  ·  Defense  ·  System Integrity     ║
+║  threat_lvl  :  [████████████░░░░] ESCALATING                ║
 ║  neural_link :  ESTABLISHED ◈ STABLE                        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -87,16 +87,16 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  ATTRIBUTE             CHIP LEVEL             STREET CRED       ║
+║  ATTRIBUTE             CHIP LEVEL             STREET CRED        ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  Penetration Test   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   87 / 100             ║
-║  Web Exploitation   ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   82 / 100             ║
-║  Digital Forensics  ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░   78 / 100             ║
-║  Python Dev         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   91 / 100             ║
-║  Recon & OSINT      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   80 / 100             ║
-║  Network Security   ▓▓▓▓▓▓▓▓▓▓░░░░░░░░   74 / 100             ║
-║  CTF Grinding       ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░   88 / 100  [ACTIVE]   ║
-║  Cryptography       ▓▓▓▓▓▓▓▓▓░░░░░░░░░   69 / 100             ║
+║  Penetration Test   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   87 / 100                ║
+║  Web Exploitation   ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   82 / 100                ║
+║  Digital Forensics  ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░   78 / 100                ║
+║  Python Dev         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   91 / 100                ║
+║  Recon & OSINT      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   80 / 100                ║
+║  Network Security   ▓▓▓▓▓▓▓▓▓▓░░░░░░░░   74 / 100                ║
+║  CTF Grinding       ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░   88 / 100  [ACTIVE]      ║
+║  Cryptography       ▓▓▓▓▓▓▓▓▓░░░░░░░░░   69 / 100                ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -202,8 +202,8 @@
 ```
 ┌────────────────────────────────────────────────────────────────┐
 │                                                                │
-│   [ OFFENSE ]                     [ DEFENSE ]                 │
-│   ─────────────────────           ─────────────────────       │
+│   [ OFFENSE ]                     [ DEFENSE ]                  │
+│   ─────────────────────           ─────────────────────        │
 │   ◈ Burp Suite                    ◈ Wireshark                 │
 │   ◈ Metasploit                    ◈ Suricata / Snort          │
 │   ◈ SQLMap                        ◈ Fail2Ban                  │
@@ -213,14 +213,14 @@
 │   ◈ pwntools                      ◈ SIEM Monitoring           │
 │   ◈ Hashcat                       ◈ Auditd                    │
 │                                                                │
-│   [ FORENSICS ]                   [ INFRA / OS ]              │
-│   ─────────────────────           ─────────────────────       │
+│   [ FORENSICS ]                   [ INFRA / OS ]               │
+│   ─────────────────────           ─────────────────────        │
 │   ◈ Volatility                    ◈ Kali Linux                │
 │   ◈ Autopsy / FTK Imager          ◈ Parrot OS                 │
 │   ◈ Binwalk / Foremost            ◈ Docker                    │
 │   ◈ Ghidra / IDA Free             ◈ Nginx                     │
 │   ◈ Wireshark PCAP Analysis       ◈ AWS EC2                   │
-│   ◈ Exiftool / Steghide           ◈ Tmux / Zsh               │
+│   ◈ Exiftool / Steghide           ◈ Tmux / Zsh                │
 │                                                                │
 └────────────────────────────────────────────────────────────────┘
 ```
@@ -231,22 +231,22 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
-║   //  NIGHT CITY HUSTLE  //  ACTIVE OPS  //  Pyur11              ║
+║   //  NIGHT CITY HUSTLE  //  ACTIVE OPS  //  Pyur11               ║
 ╠═══════════════════════════════════════════════════════════════════╣
 ║                                                                   ║
 ║  ◈ CTF GRINDING       [████████████████░░░░]  ACTIVE             ║
-║    └─ Web Exploit · Digital Forensics · Misc                     ║
+║    └─ Web Exploit · Digital Forensics · Misc                      ║
 ║                                                                   ║
-║  ◈ PENTEST RESEARCH   [████████████░░░░░░░░]  IN PROGRESS        ║
-║    └─ Building custom Python tooling for recon                   ║
+║  ◈ PENTEST RESEARCH   [████████████░░░░░░░░]  IN PROGRESS         ║
+║    └─ Building custom Python tooling for recon                    ║
 ║                                                                   ║
-║  ◈ CLOUD HARDENING    [████████░░░░░░░░░░░░]  ONGOING            ║
-║    └─ AWS / GCP security architecture review                     ║
+║  ◈ CLOUD HARDENING    [████████░░░░░░░░░░░░]  ONGOING             ║
+║    └─ AWS / GCP security architecture review                      ║
 ║                                                                   ║
-║  ◈ OSINT AUTOMATION   [██████████████░░░░░░]  BUILDING           ║
-║    └─ Automating recon pipelines in Python                       ║
+║  ◈ OSINT AUTOMATION   [██████████████░░░░░░]  BUILDING            ║
+║    └─ Automating recon pipelines in Python                        ║
 ║                                                                   ║
-║  >> NEXT TARGET : [REDACTED]  //  CLEARANCE REQUIRED             ║
+║  >> NEXT TARGET : [REDACTED]  //  CLEARANCE REQUIRED              ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -281,14 +281,14 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║    ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗███████╗██████╗   ║
-║   ██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗  ║
-║   ██║  ███╗███████║██║   ██║███████╗   ██║   █████╗  ██║  ██║  ║
-║   ██║   ██║██╔══██║██║   ██║╚════██║   ██║   ██╔══╝  ██║  ██║  ║
-║   ╚██████╔╝██║  ██║╚██████╔╝███████║   ██║   ███████╗██████╔╝  ║
-║    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝╚═════╝   ║
+║    ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗███████╗██████╗     ║
+║   ██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗    ║
+║   ██║  ███╗███████║██║   ██║███████╗   ██║   █████╗  ██║  ██║    ║
+║   ██║   ██║██╔══██║██║   ██║╚════██║   ██║   ██╔══╝  ██║  ██║    ║
+║   ╚██████╔╝██║  ██║╚██████╔╝███████║   ██║   ███████╗██████╔╝    ║
+║    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝╚═════╝     ║
 ║                                                                  ║
-║   T R A C E   E R A S E D  //  N E T R U N N E R   G H O S T   ║
+║   T R A C E   E R A S E D  //  N E T R U N N E R   G H O S T     ║
 ║   Pyur11 was never here.                                         ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
