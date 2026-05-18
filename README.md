@@ -24,7 +24,7 @@
 ```
   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
   █  ALIAS  ::  P Y U R 1 1   //   raivenLockdown          █
-  █  CLASS  ::  NETRUNNER ░░░░░░░░░░░░░░  RANK: S-CLASS    █
+  █  CLASS  ::  NETRUNNER ░░░░░░░░░░░░░░  RANK: A-CLASS    █
   █  STATUS ::  ◈ BREACHING SYSTEM ◈ ICE DISSOLVED         █
   █  DOMAIN ::  CTF · PENTEST · SECURITY RESEARCH          █
   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
