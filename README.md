@@ -177,7 +177,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raivenLockdown&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FCF72A&icon_color=00FFFF&text_color=C0C0C0&ring_color=00FFFF&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=raivenLockdown&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FCF72A&icon_color=00FFFF&text_color=C0C0C0&ring_color=00FFFF&include_all_commits=true&count_private=true" width="49%" />
 
 <img src="https://streak-stats.demolab.com/?user=raivenLockdown&hide_border=true&background=0D0D0D&ring=00FFFF&fire=FCF72A&currStreakLabel=FCF72A&sideLabels=C0C0C0&dates=C0C0C0&stroke=00FFFF" width="49%" />
 
@@ -185,7 +185,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raivenLockdown&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FCF72A&text_color=C0C0C0&langs_count=10" width="60%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raivenLockdown&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FCF72A&text_color=C0C0C0&langs_count=10" width="60%" />
 
 </div>
 
